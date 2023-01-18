@@ -3,10 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "name": "Kingsbridge - Riverdale",
-        "color": "#CCFF00"
-      },
+      "properties": { "name": "Kingsbridge - Riverdale", "color": "#CCFF00" },
       "geometry": {
         "coordinates": [
           [
@@ -139,14 +136,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 0
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Northeast Bronx",
-        "color": "#FF3131"
-      },
+      "properties": { "name": "Northeast Bronx", "color": "#FF3131" },
       "geometry": {
         "coordinates": [
           [
@@ -324,14 +319,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 1
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Fordham - Bronx Park",
-        "color": "#ABC65F"
-      },
+      "properties": { "name": "Fordham - Bronx Park", "color": "#ABC65F" },
       "geometry": {
         "coordinates": [
           [
@@ -491,14 +484,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Pelham - Throgs Neck",
-        "color": "#350B99"
-      },
+      "properties": { "name": "Pelham - Throgs Neck", "color": "#350B99" },
       "geometry": {
         "coordinates": [
           [
@@ -1656,14 +1647,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Crotona - Tremont",
-        "color": "#39FF14"
-      },
+      "properties": { "name": "Crotona - Tremont", "color": "#39FF14" },
       "geometry": {
         "coordinates": [
           [
@@ -1820,14 +1809,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 4
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "High Bridge - Morrisania",
-        "color": "#EA00FF"
-      },
+      "properties": { "name": "High Bridge - Morrisania", "color": "#EA00FF" },
       "geometry": {
         "coordinates": [
           [
@@ -1977,14 +1964,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 5
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Hunts Point - Mott Haven",
-        "color": "#008080"
-      },
+      "properties": { "name": "Hunts Point - Mott Haven", "color": "#008080" },
       "geometry": {
         "coordinates": [
           [
@@ -2127,14 +2112,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 6
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Greenpoint",
-        "color": "#39FF14"
-      },
+      "properties": { "name": "Greenpoint", "color": "#39FF14" },
       "geometry": {
         "coordinates": [
           [
@@ -2259,7 +2242,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 7
     },
     {
       "type": "Feature",
@@ -2347,14 +2331,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 8
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "East New York",
-        "color": "#00FFFF"
-      },
+      "properties": { "name": "East New York", "color": "#00FFFF" },
       "geometry": {
         "coordinates": [
           [
@@ -2472,14 +2454,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Sunset Park",
-        "color": "#FF3131"
-      },
+      "properties": { "name": "Sunset Park", "color": "#FF3131" },
       "geometry": {
         "coordinates": [
           [
@@ -2632,14 +2612,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 10
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Borough Park",
-        "color": "#0FF0FC"
-      },
+      "properties": { "name": "Borough Park", "color": "#0FF0FC" },
       "geometry": {
         "coordinates": [
           [
@@ -2698,14 +2676,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 11
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "East Flatbush - Flatbush",
-        "color": "#350B99"
-      },
+      "properties": { "name": "East Flatbush - Flatbush", "color": "#350B99" },
       "geometry": {
         "coordinates": [
           [
@@ -2777,14 +2753,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 12
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Canarsie - Flatlands",
-        "color": "#ABC65F"
-      },
+      "properties": { "name": "Canarsie - Flatlands", "color": "#ABC65F" },
       "geometry": {
         "coordinates": [
           [
@@ -3223,14 +3197,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 13
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Bensonhurst - Bay Ridge",
-        "color": "#008080"
-      },
+      "properties": { "name": "Bensonhurst - Bay Ridge", "color": "#008080" },
       "geometry": {
         "coordinates": [
           [
@@ -3344,7 +3316,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 14
     },
     {
       "type": "Feature",
@@ -3576,14 +3549,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 15
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Williamsburg - Bushwick",
-        "color": "#F7C548"
-      },
+      "properties": { "name": "Williamsburg - Bushwick", "color": "#F7C548" },
       "geometry": {
         "coordinates": [
           [
@@ -3641,7 +3612,8 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 16
     },
     {
       "type": "Feature",
@@ -3850,7 +3822,8 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 17
     },
     {
       "type": "Feature",
@@ -3959,14 +3932,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 18
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "East Harlem",
-        "color": "#F7C548"
-      },
+      "properties": { "name": "East Harlem", "color": "#F7C548" },
       "geometry": {
         "coordinates": [
           [
@@ -4067,14 +4038,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 19
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Upper West Side",
-        "color": "#ABC65F"
-      },
+      "properties": { "name": "Upper West Side", "color": "#ABC65F" },
       "geometry": {
         "coordinates": [
           [
@@ -4126,14 +4095,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 20
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Upper East Side",
-        "color": "#017562"
-      },
+      "properties": { "name": "Upper East Side", "color": "#017562" },
       "geometry": {
         "coordinates": [
           [
@@ -4173,14 +4140,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 21
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Chelsea - Clinton",
-        "color": "#EA00FF"
-      },
+      "properties": { "name": "Chelsea - Clinton", "color": "#EA00FF" },
       "geometry": {
         "coordinates": [
           [
@@ -4269,7 +4234,8 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 22
     },
     {
       "type": "Feature",
@@ -4349,14 +4315,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 23
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Greenwich Village - SoHo",
-        "color": "#ABC65F"
-      },
+      "properties": { "name": "Greenwich Village - SoHo", "color": "#ABC65F" },
       "geometry": {
         "coordinates": [
           [
@@ -4397,7 +4361,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 24
     },
     {
       "type": "Feature",
@@ -4496,14 +4461,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 25
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Lower Manhattan",
-        "color": "#00FFFF"
-      },
+      "properties": { "name": "Lower Manhattan", "color": "#00FFFF" },
       "geometry": {
         "coordinates": [
           [
@@ -4628,7 +4591,8 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 26
     },
     {
       "type": "Feature",
@@ -4862,14 +4826,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 27
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "West Queens",
-        "color": "#EA00FF"
-      },
+      "properties": { "name": "West Queens", "color": "#EA00FF" },
       "geometry": {
         "coordinates": [
           [
@@ -5210,14 +5172,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 28
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Flushing - Clearview",
-        "color": "#39FF14"
-      },
+      "properties": { "name": "Flushing - Clearview", "color": "#39FF14" },
       "geometry": {
         "coordinates": [
           [
@@ -5552,14 +5512,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 29
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Bayside - Little Neck",
-        "color": "#FFF01F"
-      },
+      "properties": { "name": "Bayside - Little Neck", "color": "#FFF01F" },
       "geometry": {
         "coordinates": [
           [
@@ -5690,14 +5648,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 30
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Ridgewood - Forest Hills",
-        "color": "#017562"
-      },
+      "properties": { "name": "Ridgewood - Forest Hills", "color": "#017562" },
       "geometry": {
         "coordinates": [
           [
@@ -5851,14 +5807,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 31
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Fresh Meadows",
-        "color": "#00FFFF"
-      },
+      "properties": { "name": "Fresh Meadows", "color": "#00FFFF" },
       "geometry": {
         "coordinates": [
           [
@@ -5926,14 +5880,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 32
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Southwest Queens",
-        "color": "#8A2BE2"
-      },
+      "properties": { "name": "Southwest Queens", "color": "#8A2BE2" },
       "geometry": {
         "coordinates": [
           [
@@ -6140,14 +6092,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 33
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Jamaica",
-        "color": "#CCFF00"
-      },
+      "properties": { "name": "Jamaica", "color": "#CCFF00" },
       "geometry": {
         "coordinates": [
           [
@@ -6406,14 +6356,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 34
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Southeast Queens",
-        "color": "#ABC65F"
-      },
+      "properties": { "name": "Southeast Queens", "color": "#ABC65F" },
       "geometry": {
         "coordinates": [
           [
@@ -6579,14 +6527,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 35
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Rockaway",
-        "color": "#EA00FF"
-      },
+      "properties": { "name": "Rockaway", "color": "#EA00FF" },
       "geometry": {
         "coordinates": [
           [
@@ -7491,14 +7437,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 36
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Port Richmond",
-        "color": "#FFF01F"
-      },
+      "properties": { "name": "Port Richmond", "color": "#FFF01F" },
       "geometry": {
         "coordinates": [
           [
@@ -7772,14 +7716,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 37
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Stapleton - St. George",
-        "color": "#FF5E00"
-      },
+      "properties": { "name": "Stapleton - St. George", "color": "#FF5E00" },
       "geometry": {
         "coordinates": [
           [
@@ -7992,14 +7934,12 @@
           ]
         ],
         "type": "MultiPolygon"
-      }
+      },
+      "id": 38
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Willowbrook",
-        "color": "#F7C548"
-      },
+      "properties": { "name": "Willowbrook", "color": "#F7C548" },
       "geometry": {
         "coordinates": [
           [
@@ -8270,14 +8210,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 39
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "South Beach - Tottenville",
-        "color": "#39FF14"
-      },
+      "properties": { "name": "South Beach - Tottenville", "color": "#39FF14" },
       "geometry": {
         "coordinates": [
           [
@@ -8784,14 +8722,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 40
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Roosevelt Island",
-        "color": "#39FF14"
-      },
+      "properties": { "name": "Roosevelt Island", "color": "#39FF14" },
       "geometry": {
         "coordinates": [
           [
@@ -8901,14 +8837,12 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 41
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Central Park",
-        "color": "#00FFFF"
-      },
+      "properties": { "name": "Central Park", "color": "#00FFFF" },
       "geometry": {
         "coordinates": [
           [
@@ -8926,7 +8860,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 42
     },
     {
       "type": "Feature",
@@ -9253,7 +9188,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 43
     }
   ]
 }
